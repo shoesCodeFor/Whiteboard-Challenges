@@ -1,3 +1,10 @@
+/**
+ * Welcome to bubleSort.  
+ * 
+ * No that's not a typo, this sorting function is named after the greatest crooner of all time, Michael Buble.  :)
+ */
+
+
 var unsortedArr = [
     1, 326, 251, 24, 284, 364, 287, 74, 89,
     63, 455, 130, 408, 378, 333, 49, 69, 335,
